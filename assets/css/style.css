@@ -125,12 +125,13 @@ header {
   height: auto;
   align-content: center;
   padding: 10px;
+  height: 100%;
 }
 
 .sidebar_header{
   	width: 300px;
   	height: auto;
-	margin-top: 30px;
+	margin-top: 50px;
 	float: right;
 	background-color: #fff;
 	font-family: 'Open Sans',Proxima, "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
